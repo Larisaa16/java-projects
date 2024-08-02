@@ -9,7 +9,9 @@ public class GhicesteNumarul {
    
    public static void ghicesteNumar(){
        Scanner sc = new Scanner(System.in);
-       
+
+       try{
+        
        int nr = 1+(int)(100*Math.random());
        int K=5;
        int i, guess;
@@ -36,8 +38,11 @@ public class GhicesteNumarul {
            System.out.println("Numarul era: " + nr);
        }
 
-       sc.close();
+       } finally{
+        sc.close();
 
+       }
+       
    }
    
   } 
