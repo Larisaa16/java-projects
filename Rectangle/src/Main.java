@@ -19,10 +19,10 @@ public class Main {
 
 
         for(int i=1;i<=rows;i++){
-            System.out.println();
             for(int j=1;j<=columns;j++){
                 System.out.print(symbol);
             }
+        System.out.println();
         }
         scanner.close();
     }
