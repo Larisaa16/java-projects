@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner scanner=new Scanner(System.in);
-       /* int a,b;
+        /* Scanner scanner=new Scanner(System.in);
+        int a,b;
         System.out.println("dati valori pt a si b");
         a= scanner.nextInt();
         b= scanner.nextInt();
@@ -12,8 +12,6 @@ public class Main {
 
         int x=add(1,2, 3);
         System.out.println(x);
-
-
 
     }
 
