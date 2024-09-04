@@ -8,8 +8,10 @@
       <module fileurl="file://$PROJECT_DIR$/OOP objects/OOP objects.iml" filepath="$PROJECT_DIR$/OOP objects/OOP objects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Overloaded methods/Overloaded methods.iml" filepath="$PROJECT_DIR$/Overloaded methods/Overloaded methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/Rectangle/Rectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/constructors/constructors.iml" filepath="$PROJECT_DIR$/constructors/constructors.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-projects.iml" filepath="$PROJECT_DIR$/java-projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/random number/random number.iml" filepath="$PROJECT_DIR$/random number/random number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/static classes/static classes.iml" filepath="$PROJECT_DIR$/static classes/static classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/wrapper classes/wrapper classes.iml" filepath="$PROJECT_DIR$/wrapper classes/wrapper classes.iml" />
     </modules>
   </component>
