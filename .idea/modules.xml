@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/2D ArrayList/2D ArrayList.iml" filepath="$PROJECT_DIR$/2D ArrayList/2D ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Input box/Input box.iml" filepath="$PROJECT_DIR$/Input box/Input box.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ipotenuza/Ipotenuza.iml" filepath="$PROJECT_DIR$/Ipotenuza/Ipotenuza.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP objects/OOP objects.iml" filepath="$PROJECT_DIR$/OOP objects/OOP objects.iml" />
