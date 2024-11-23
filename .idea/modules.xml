@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/2D ArrayList/2D ArrayList.iml" filepath="$PROJECT_DIR$/2D ArrayList/2D ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Borders/Borders.iml" filepath="$PROJECT_DIR$/Borders/Borders.iml" />
       <module fileurl="file://$PROJECT_DIR$/Buttons/Buttons.iml" filepath="$PROJECT_DIR$/Buttons/Buttons.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dynamic polymorphism/Dynamic polymorphism.iml" filepath="$PROJECT_DIR$/Dynamic polymorphism/Dynamic polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
