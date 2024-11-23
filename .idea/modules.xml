@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/2D ArrayList/2D ArrayList.iml" filepath="$PROJECT_DIR$/2D ArrayList/2D ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Buttons/Buttons.iml" filepath="$PROJECT_DIR$/Buttons/Buttons.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dynamic polymorphism/Dynamic polymorphism.iml" filepath="$PROJECT_DIR$/Dynamic polymorphism/Dynamic polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Exceptions/Exceptions.iml" />
@@ -11,11 +12,14 @@
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Input box/Input box.iml" filepath="$PROJECT_DIR$/Input box/Input box.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ipotenuza/Ipotenuza.iml" filepath="$PROJECT_DIR$/Ipotenuza/Ipotenuza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java gui/Java gui.iml" filepath="$PROJECT_DIR$/Java gui/Java gui.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP objects/OOP objects.iml" filepath="$PROJECT_DIR$/OOP objects/OOP objects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Overloaded methods/Overloaded methods.iml" filepath="$PROJECT_DIR$/Overloaded methods/Overloaded methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Panels/Panels.iml" filepath="$PROJECT_DIR$/Panels/Panels.iml" />
       <module fileurl="file://$PROJECT_DIR$/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/Rectangle/Rectangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/Write to a file/Write to a file.iml" filepath="$PROJECT_DIR$/Write to a file/Write to a file.iml" />
       <module fileurl="file://$PROJECT_DIR$/constructors/constructors.iml" filepath="$PROJECT_DIR$/constructors/constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java audio/java audio.iml" filepath="$PROJECT_DIR$/java audio/java audio.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-projects.iml" filepath="$PROJECT_DIR$/java-projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/polymorfism/polymorfism.iml" filepath="$PROJECT_DIR$/polymorfism/polymorfism.iml" />
       <module fileurl="file://$PROJECT_DIR$/random number/random number.iml" filepath="$PROJECT_DIR$/random number/random number.iml" />
